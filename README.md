@@ -1,11 +1,11 @@
-# monerochan.rs Project Template
+# monachan.org Project Template
 
-This is a template for creating an end-to-end [monerochan.rs](https://github.com/Monero-Chan-Foundation/monerochan-rs) project that can generate a proof of any RISC-V program using the monerochan.rs Runtime.
+This is a template for creating an end-to-end [monachan.org](https://github.com/MonachanFoundation/monachan-rs) project that can generate a proof of any RISC-V program using the monachan.rs Runtime.
 
 ## Requirements
 
 - [Rust](https://rustup.rs/)
-- [monerochan.rs](https://github.com/Monero-Chan-Foundation/monerochan-rs)
+- [monachan.org](https://github.com/MonachanFoundation/monachan-rs)
 
 ## Running the Project
 
@@ -42,3 +42,4 @@ To retrieve your `programVKey`, run the following command in `script`:
 ```sh
 cargo run --release --bin vkey
 ```
+
